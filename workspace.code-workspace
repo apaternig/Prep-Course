@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\JEP729"
+		},
+		{
+			"path": "D:\\Cocina"
+		},
+		{
+			"path": "D:\\The Athletic"
+		},
+		{
+			"path": "D:\\JavaScript1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "The Athletic"
+	}
+}
